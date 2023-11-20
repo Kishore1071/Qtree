@@ -90,7 +90,7 @@ Day 11:
 
 Day 12:
 
-	1) Function and Onclick Event
+	1) Function, scope and Onclick Event
 	2) Accessing Dom [Collecting Html Form Data]
 
 
@@ -168,7 +168,7 @@ Day 25:
 
 	1) Xml Http Request - Delete
 	2) Single Page Application
-	
+
 
 Day 26 - Day 30:
 
