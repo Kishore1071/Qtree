@@ -68,3 +68,4 @@ Day 10:
 
     1) Connecting MySql Database
     2) Maintaining Static Files
+    3) Dashboard
