@@ -44,7 +44,7 @@ Day 4:
 Day 5:
 
 	1) Position
-	2) Grid
+	2) List and Table
 	3) Combinators
 	4) Pseudo class
 
@@ -52,7 +52,6 @@ Day 5:
 Day 6:
 
 	1) Diplay
-	2) Flexbox
 
 
 Day 7:
