@@ -6,7 +6,7 @@ Day 1:
 	1) What is web
 	2) what is webpage
 	3) What is Website & Web-Application
-	4) Essential Language to Build Webpage (Html, Css, Javascript)
+	4) Essential Language to Build Webpage
 	5) How Website Works in Browser
 	6) Website or Web-Application Which is Best to Learn
 	7) Building Blocks of Web Application
