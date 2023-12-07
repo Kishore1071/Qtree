@@ -20,8 +20,9 @@ Day 2:
 
 Day 3:
 
-    1) State
-    2) Set State
-    3) Destructuring Props and State
-    4) Event Handling
+    1) Destructuring Props and State
+    2) State
+    3) Set State
+    4) Call Back Function
+    5) Prevoius State
 
