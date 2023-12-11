@@ -30,36 +30,36 @@ Day 5:
 
     1) Functions and Scope
     2) Error Handling
-    3) Module
 
 
 Day 6:
+
+    1) String Methods
+    2) List Methods
+    3) Dictionary Methods
+
+Day 7:
 
     1) Class
     2) OOPS Basics
 
 
-Day 7:
+Day 8:
 
     1) Encapsulation
     2) Inheritance
 
 
-Day 8:
+Day 9:
 
     1) Polymorphism
     2) File Handling and Reading CSV Files
 
 
-Day 9:
-
-    1) Packages
-    2) Lambda
-
-
 Day 10:
 
-    1) Task
+    1) List Comprehension
+    2) Lambda
 
 
 Day 11 - Day 12:
@@ -83,6 +83,6 @@ Day 17 - Day 18:
 
 Day 19 - Day 20:
 
-    1) Task
+    1) Task and Doubt Clearing
 
 
