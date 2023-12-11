@@ -15,8 +15,9 @@ Day 2:
     2) Creating Component with JSX extension
     3) Create a Function Component with Arrow Function
     4) Reusing Component
-    5) Props in Components
-    6) Children of Props
+    5) Nesting Components
+    6) Props in Components
+    7) Children of Props
 
 Day 3:
 
@@ -25,4 +26,20 @@ Day 3:
     3) Set State
     4) Call Back Function
     5) Prevoius State
+
+Day 4:
+
+    1) Event Handling
+    2) Binding Event Handler
+    3) Methods as Props
+    4) Conditional Rendering [If Statement, Ternary Rendering, Short Circuit]
+
+Day 5:
+
+    1) List Rendering, Keys and Index of List
+    2) Form Handling
+
+Day 6:
+
+    1) Lifecyle
 
