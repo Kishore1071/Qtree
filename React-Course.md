@@ -29,17 +29,19 @@ Day 3:
 
 Day 4:
 
-    1) Event Handling
-    2) Binding Event Handler
-    3) Methods as Props
-    4) Conditional Rendering [If Statement, Ternary Rendering, Short Circuit]
+    1) UseState
+    2) Event Handling
+    3) Binding Event Handler
 
 Day 5:
+
+    1) Methods as Props
+    2) Conditional Rendering [If Statement, Element Variables, Ternary Rendering, Short Circuit]
+
+Day 6:
 
     1) List Rendering, Keys and Index of List
     2) Form Handling
 
-Day 6:
 
-    1) Lifecyle
 
