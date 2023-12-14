@@ -35,7 +35,7 @@ Day 4:
 
 Day 5:
 
-    1) Conditional Rendering [If Statement, Element Variables, Ternary Rendering, Short Circuit]
+    1) Conditional Rendering [If/else Statement, Element Variables, Ternary Rendering, Short Circuit]
     2) Map Method
 
 Day 6:
