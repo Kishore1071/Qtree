@@ -36,13 +36,13 @@ Day 4:
 Day 5:
 
     1) Conditional Rendering [If/else Statement, Element Variables, Ternary Rendering, Short Circuit]
-    2) Map Method
+    2) Methods as Props
 
 Day 6:
 
-    1) List Rendering, Keys and Index of List
-    2) Form Handling
-    3) Methods as Props
+    1) Map Method
+    2) List Rendering, Keys and Index of List
+    3) Form Handling
 
 
 
