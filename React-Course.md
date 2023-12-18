@@ -42,7 +42,9 @@ Day 6:
 
     1) Map Method
     2) List Rendering, Keys and Index of List
-    3) Form Handling
 
+Day 7:
+
+    1) Form Handling
 
 
