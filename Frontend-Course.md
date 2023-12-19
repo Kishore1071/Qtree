@@ -89,15 +89,15 @@ Day 11:
 
 Day 12:
 
-	1) Function, scope and Onclick Event
-	2) Accessing Dom [Collecting Html Form Data]
+	1) If Statement
+	2) Ternary Operator
+	3) Switch
 
 
 Day 13:
 
-	1) If Statement
-	2) Ternary Operator
-	3) Switch
+	1) Function, scope and Onclick Event
+	2) Accessing Dom [Collecting Html Form Data]
 
 
 Day 14:

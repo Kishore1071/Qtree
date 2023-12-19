@@ -14,7 +14,7 @@ Day 1:
 Day 2:
 
     1) Creating App
-    2) Base Routing for App
+    2) Base Routing for App [Not for frontend app]
     3) Creating Templates
     4) Rendering First Html Page
 
