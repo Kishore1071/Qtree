@@ -46,5 +46,11 @@ Day 6:
 Day 7:
 
     1) Form Handling
+    2) Integrating Bootstrap to React
+    3) Integrating Material UI to React
+    4) Integrating Ant Design to React
 
+Day 8:
 
+    1) Installing Axios
+    2) Get Request

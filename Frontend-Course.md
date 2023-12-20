@@ -97,7 +97,6 @@ Day 12:
 Day 13:
 
 	1) Function, scope and Onclick Event
-	2) Accessing Dom [Collecting Html Form Data]
 
 
 Day 14:
@@ -148,8 +147,9 @@ Day 21:
 
 Day 22:
 
-	1) Ajax Concepts
-	2) Xml Http Request - Post
+	1) Accessing Dom [Collecting Html Form Data]
+	2) Ajax Concepts
+	3) Xml Http Request - Post
 
 
 Day 23:
@@ -171,6 +171,5 @@ Day 25:
 
 Day 26 - Day 30:
 
-	1) Mini Project - Building static Website
-	2) Doubt Clearing
+	1) Doubt Clearing
 
