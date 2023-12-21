@@ -2,55 +2,79 @@
 
 Day 1:
 
-    1) Installing Nodejs
-    2) Creating React App
-    3) Basic Folder Structure
-    4) Serving the Project
-    5) Rendering New contents
-    6) Creating and Rendering New Function Based Component
+    1) What is React
+    2) Why React [Preferred than Angular and Vue js]
+    3) Installing Nodejs
+    4) Creating React App
+    5) Basic Folder Structure
+    6) Serving the Project
+    7) Rendering New contents
+
 
 Day 2:
- 
-    1) Creating and Rendering New Class Based Component
-    2) Creating Component with JSX extension
-    3) Create a Function Component with Arrow Function
-    4) Reusing Component
-    5) Nesting Components
-    6) Props in Components
-    7) Children of Props
+
+    1) Creating Component with Normal Function
+    2) Creating Component with Arrow Function
+    3) Creating Component with Class
+    4) Difference between JS and JSX extension
+    5) Installing ES7 vscode extension
+    6) Creating All Components with ES7 Snippets
+    7) Reusing Component
+    8) Nesting Components
+    
 
 Day 3:
 
-    1) Destructuring Props and State
-    2) State
-    3) Set State
-    4) Call Back Function
-    5) Prevoius State
+    1) Props in FC
+    2) Props in CC
+    3) Children of Props
+    4) Destructuring Props in FC
+    5) Destructuring Props in CC
+    6) Event Handling in FC
+    7) Event Handling in CC
 
 Day 4:
 
-    1) UseState
-    2) Event Handling
-    3) Binding Event Handler
+    1) Methods as Props in FC
+    2) Methods as Props in CC
+    3) UseState in Functional Component [To define and update the state of locally declared variable]
+    
 
 Day 5:
 
-    1) Conditional Rendering [If/else Statement, Element Variables, Ternary Rendering, Short Circuit]
-    2) Methods as Props
+    1) State in Class Component [To define and update the state of locally declared variable]
+    2) Call Back Function
+    3) Previous State
 
 Day 6:
 
-    1) Map Method
-    2) List Rendering, Keys and Index of List
+    1) Conditional Rendering [If/else Statement, Element Variables, Ternary Rendering, Short Circuit] 
 
 Day 7:
 
-    1) Form Handling
-    2) Integrating Bootstrap to React
-    3) Integrating Material UI to React
-    4) Integrating Ant Design to React
+    1) List Rendering, Keys and Index of List
+    2) Form Handling
+    
 
 Day 8:
 
-    1) Installing Axios
-    2) Get Request
+    1) Integrating Bootstrap CDN, React-Bootstrap, Material UI and Ant-Design to React
+
+Day 9:
+
+    1) Indroduction Axios Library
+    2) Installing Axios
+    3) Get Request
+
+Day 10:
+
+    1) Post Request
+
+Day 11:
+
+    1) React Router
+    2) Setting Menus
+
+Day 12:
+
+    1) Patch & Delete Request
