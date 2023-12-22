@@ -59,6 +59,7 @@ Day 7:
 Day 8:
 
     1) Integrating Bootstrap CDN, React-Bootstrap, Material UI and Ant-Design to React
+    2) Custome CSS
 
 Day 9:
 
@@ -78,3 +79,11 @@ Day 11:
 Day 12:
 
     1) Patch & Delete Request
+
+Day 13:
+
+    1) Dynamic Menu Routing
+
+Day 14:
+
+    1) Lifecyle Methods
