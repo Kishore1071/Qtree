@@ -1,4 +1,4 @@
-<!-- FRONTEND COURSE -->
+# FRONTEND COURSE
 
 
 Day 1:
@@ -59,20 +59,9 @@ Day 7:
 	1) Bootstrap Integration
 	2) Basic Concepts
 	3) Components
-
+	1) Utilities
 
 Day 8:
-
-	1) Utilities
-	2) User Login, Sigup and Dashboard page design
-
-
-Day 9:
-
-	1) Task completing and Doubt Clear
-
-
-Day 10:
 
 	1) Introduction to Javascript
 	2) Introduction to Developer Tools
@@ -81,95 +70,90 @@ Day 10:
 	5) Variables and Console.log
 
 
-Day 11:
+Day 9:
 
 	1) Data Types
 	2) Operators
 
 
-Day 12:
+Day 10:
 
 	1) If Statement
 	2) Ternary Operator
 	3) Switch
 
 
-Day 13:
+Day 11:
 
 	1) Function, scope and Onclick Event
 
 
-Day 14:
+Day 12:
 
 	1) For Loop
 
 
-Day 15:
+Day 13:
 
 	1) While and Do-While
 	2) Arrow Function
 
 
-Day 16:
+Day 14:
 
 	1) String Methods
 	2) Array Methods
 	3) Objects Methods
 
 
-Day 17:
+Day 15:
 
 	1) Math Module
 	2) Class
 
 
-Day 18:
+Day 16:
 
 	1) OOPS Basics
 	2) Encapsulation
 
 
-Day 19:
+Day 17:
 
 	1) Inheritance
 	2) Polymorphism
 
 
-Day 20:
+Day 18:
 
-	1) Error Handling
+	1) Map Method
+	2) Error Handling
 
-
-Day 21:
+Day 19 - Day 26:
 
 	1) Task
 
 
-Day 22:
+Day 27:
 
 	1) Accessing Dom [Collecting Html Form Data]
 	2) Ajax Concepts
 	3) Xml Http Request - Post
 
 
-Day 23:
+Day 28:
 
 	1) Xml Http Request - Get
 	2) Dynamic Data rendering
 
 
-Day 24:
+Day 29:
 
 	1) Xml Http Request - Patch or Put
 
 
-Day 25:
+Day 30:
 
 	1) Xml Http Request - Delete
 	2) Single Page Application
-
-
-Day 26 - Day 30:
-
-	1) Doubt Clearing
 

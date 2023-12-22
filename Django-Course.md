@@ -1,4 +1,4 @@
-<!-- Django Course -->
+# Django Course
 
 Day 1:
 
@@ -69,3 +69,26 @@ Day 10:
     1) Connecting MySql Database
     2) Maintaining Static Files
     3) Dashboard
+
+Day 11:
+
+    1) Installing Django Rest Framework
+    2) Writting Basic API
+    3) Testing the API in Postman
+
+Day 12:
+
+    1) Basic Model Crud Operation [Without Serializer]
+
+Day 13:
+
+    1) Creating Serializer
+    2) Basic Model Crud Operation [With Serializer]
+
+Day 14:
+
+    1) Crud Operations for ForiegnKey Models
+
+Day 15:
+
+    1) JWT Authentication
