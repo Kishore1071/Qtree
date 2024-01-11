@@ -4,7 +4,7 @@ Students - Harishankar, Kalaiselvan, Ragul Ganesan, Udayakumar, Ragul Aravinth, 
 
 # Frontend - Feb 1
 
-Students - Sathish, Vittchu, Venkatachalam, SujithKuamr
+Students - Sathish, Vittchu, Venkatachalam
 
 # Django - Jan 22
 
