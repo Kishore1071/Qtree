@@ -8,4 +8,4 @@ Students - Sathish, Vittchu, Venkatachalam
 
 # Django - Jan 22
 
-Students - Gayathiri, Sendooradevi, Mukhilan, Srikanth Shiva Sudhan, Nikkil
+Students - Gayathiri, Sendooradevi, Mukhilan, Srikanth, Shiva Sudhan, Nikkil
