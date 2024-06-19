@@ -1,4 +1,4 @@
-# What is Mern Stack
+r# What is Mern Stack
 # Installing Visual Studio Code
 # Creating html, css and Javascript files
 # Linking raw files
@@ -28,6 +28,7 @@
 # Selectors - Element, ClassName, Id
 # Combinators
 
-# Text Styling - Font Family, Font Size, Font Style, Font Weight, Color, Text Align, Text Decoration, Line Height, 
+# Text Styling - Font Family, Font Size, Font Style, Font Weight, Color, Text Align, Text Decoration, Line Height,
+# New 
 
 
