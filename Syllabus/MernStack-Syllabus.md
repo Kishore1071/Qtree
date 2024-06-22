@@ -1,4 +1,4 @@
-r# What is Mern Stack
+# What is Mern Stack
 # Installing Visual Studio Code
 # Creating html, css and Javascript files
 # Linking raw files
@@ -25,10 +25,35 @@ r# What is Mern Stack
 # Semantics
 # Creating Css file and Linking
 # Property Value Syntax
-# Selectors - Element, ClassName, Id
-# Combinators
+# Selectors - Element, ClassName, Id, Universal Selector
+# Combinators - All Child, Direct Child, Direct Sibling, All Sibling
 
-# Text Styling - Font Family, Font Size, Font Style, Font Weight, Color, Text Align, Text Decoration, Line Height,
-# New 
+# Text Styling - Font Family, Font Size, Font Style, Font Weight, Color, Text Align, Text Decoration, Line Height, Text Transform, Letter Spacing, Word Spacing
+
+# Color - Color Name, Hexadecimal Code, RGB, RGBA, HSL, HSLA
+
+# Background - Solid Color, Image, Repeat, Position, Size
+
+# Margin
+# Padding
+# Border - Basic Style, Radius
+# Box Model
+# Box Sizing
+
+# Float and Clear
+# Position - Static, Relative, Absolute, Fixed, Sticky
+# Display - Block, Inline, Inline-Block, None
+
+# Flexbox
+# Grid
+
+# Pseudo Classes - Hover, Focus, nth-child
+# Pseudo Elements - Before, After
+
+# Transitions
+# Transform
+# Variables
+
+# Bootstrap
 
 
