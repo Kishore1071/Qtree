@@ -126,14 +126,17 @@
 # Creating a Normal Function Based Component
 # Creating Arrow Function-Based Component
 # Component that Returns Multi-line HTML
+
 # Difference Between HTML and JSX
 # Installing ES7 VS Code Extension
 # Creating Components with ES7 Snippet
+
 # Nesting Component
 # Reusing Component
 # Props
 # Children of Props
 # Destructuring of Props
+
 # Event Handling
 # Methods as Props
 # Conditional Rendering [If/else, Element Variables, Ternary

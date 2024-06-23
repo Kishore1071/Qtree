@@ -1,19 +1,28 @@
+[Basics]
+
 # What is Mern Stack
 # Installing Visual Studio Code
 # Creating html, css and Javascript files
 # Linking raw files
 # Drawbacks of Multipage website
 
+
+[React-Project-Setup]
+
 # Introduction to React
 # Installing Node Js
 # Creating a React Application
 # Removing unwanted content from project
 # Overview of index.html file
-
 # Introduction to Developer Tools of browser
+
+
+[Html-Essentials]
+
+# Auto Rename Tag Extension
 # Text Formatting - Heading, Paragraph, Line Break, Bold, Italic
 # List - Ordered List, Unordered List
-# HyperLink - Creating Anchors, Linking external websites
+# HyperLink - Linking external websites
 # Image - Local, External
 
 # Media - Audio, Video
@@ -21,8 +30,11 @@
 # Form - Label, Input, Textarea, Select
 # Button
 # Division
-
 # Semantics
+
+
+[CSS-Essentials]
+
 # Creating Css file and Linking
 # Property Value Syntax
 # Selectors - Element, ClassName, Id, Universal Selector
@@ -54,6 +66,130 @@
 # Transform
 # Variables
 
+
+[Core-Javascript]
+
+# Introduction to JavaScript
+# Console
+# Variables
+# DataTypes
+# Operators
+
+# If Statement
+# Ternary Operator
+# Switch Statement
+
+# Function
+# Scope of a Variable
+
+# For Loop
+# While Loop
+# Do-While
+
+# Arrow Function
+
+# String Methods
+# Array Methods
+# Object Methods
+# Math Module
+# Advanced Array Methods
+
+
+[React-Basic-Concepts]
+
+# What is NPM
+# Explanation of Basic Folder Structure
+# Creating and Rendering Function Based Component
+# Creating and Rendering Arrow Function Based Component
+# What is Jsx
+# Returning Single Line and Multi-Line jsx
+
+# Es7 Extension and Creating Component with Shortcut
+# Nesting Component
+# Props
+# Children of Props
+# Destructuring of Props
+# Reusing Component with Props
+
+# Event Handling
+# Functios as Props
+# Conditional Rendering (If Else with Element Variables, Ternary Operator and Short circuit)
+# List Rendering with Unique Key
+# UseState Hook
+
+# Form Handling and Onchange Event
+# UseEffect
+# Array in UseState
+# Object in UseState
+# Previous State
+
+# Installing React Router Library
+# Url Routes
+# Setting Menus
+# In-page Routing
+
+
+[Express-API's]
+
+# Creating package.json file
+# Installing express
+# Creating app.js file
+# Creating basic express server
+# Serving the project with node
+# Installing Nodemon
+# Serving the project with nodemon
+# Creating mongodb cluster
+# Installing mongodb
+# Creating local connection and cluster connection in mongodb compass
+# Installing mongoose
+# Creating a database in mongodb
+# Create environment file 
+# Connecting mongodb to node js
+# Creating a model
+# Installing postman
+# Accessing all http methods with postman
+# Crud operations for model
+
+
+[React-Express-Integration]
+
+# Installing cors
+# Allowing cross origin with cors package
+# Installing Axios Library
+# Get Request with Axios
+# Post Request with Axios
+# Put/Patch Request with Axios
+# Delete Request with Axios
+
+
+[Express-Advanced]
+
+# Creating linked model
+# Crud operations for linked model
+# Error Handling
+# Creating reports
+
+
+[React-Advanced]
+
+# Dynamic Field Generation
+# Integrating with Express For Linked Models
+# Component Lifecycle
+# UseContext Hook
+# UseReducer Hook
+# Models
+# Portals
+# Inline CSS
+
+
+[Javascript-OOPS]
+
+# Class
+# OOPS Concept
+# Data Abstraction
+# Encapsulation
+# Inheritance
+# Polymorphism
+
+
 # Bootstrap
-
-
