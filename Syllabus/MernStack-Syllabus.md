@@ -25,7 +25,6 @@
 # HyperLink - Linking external websites
 # Image - Local, External
 
-# Media - Audio, Video
 # Table - Creating Table, Row and Column Span
 # Form - Label, Input, Textarea, Select
 # Button
@@ -180,6 +179,11 @@
 # Models
 # Portals
 # Inline CSS
+# Media - Audio, Video
+
+[Authentication-Integration]
+
+# Json Web Token
 
 
 [Javascript-OOPS]
@@ -192,4 +196,7 @@
 # Polymorphism
 
 
+[Css-FrameWorks]
+
 # Bootstrap
+# Ant Design
