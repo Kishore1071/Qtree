@@ -1,202 +1,280 @@
-[Basics]
+[Introduction]
 
-# What is Mern Stack
-# Installing Visual Studio Code
-# Creating html, css and Javascript files
-# Linking raw files
-# Drawbacks of Multipage website
+What is Mern Stack Development
+What can we build with Mern Stack Development
+
+[Technologies-Included]
+
+Html
+Css
+JavaScript
+Bootstrap
+React Js
+Express Js
+MongoDB
+
+
+[Basic-Setup]
+
+Installing Python, Visual Studio Code, Google Chrome and Node Js
+Setting Up Default Browser as Chrome
+Changing Execution Policy
+Creating and Opening Folder in VS Code
 
 
 [React-Project-Setup]
 
-# Introduction to React
-# Installing Node Js
-# Creating a React Application
-# Removing unwanted content from project
-# Overview of index.html file
-# Introduction to Developer Tools of browser
+Introduction to React
+Creating a React Application
+Removing unwanted content from project
+Overview of index.html file
+Introduction to Developer Tools of browser
 
 
 [Html-Essentials]
 
-# Auto Rename Tag Extension
-# Text Formatting - Heading, Paragraph, Line Break, Bold, Italic
-# List - Ordered List, Unordered List
-# HyperLink - Linking external websites
-# Image - Local, External
+Installing Auto Rename Tag Extension
+Html Element and Attribute Structure
+Basic html boiler-plate
 
-# Table - Creating Table, Row and Column Span
-# Form - Label, Input, Textarea, Select
-# Button
-# Division
-# Semantics
+Text Formating:
+    Heading
+    Paragraph
+    Span
+    Line Break
+    Bold
+    Italic
+
+List:
+    Ordered List
+    Unordered List
+
+Link
+Image
+Table
+
+Form:
+    Label
+    Input
+    Textarea
+    Select Box
+
+Buttons
+Division
 
 
 [CSS-Essentials]
 
-# Creating Css file and Linking
-# Property Value Syntax
-# Selectors - Element, ClassName, Id, Universal Selector
-# Combinators - All Child, Direct Child, Direct Sibling, All Sibling
+Inline Styling
+Internal Styling
+External Styling
+Creating Css file and Linking it Html
+Property Value Syntax
 
-# Text Styling - Font Family, Font Size, Font Style, Font Weight, Color, Text Align, Text Decoration, Line Height, Text Transform, Letter Spacing, Word Spacing
+Selectors:
+    Element
+    ClassName
+    Id
+    Universal Selector
 
-# Color - Color Name, Hexadecimal Code, RGB, RGBA, HSL, HSLA
+Combinators:
+    All Child
+    Direct Child
+    Direct Sibling
+    All Sibling
 
-# Background - Solid Color, Image, Repeat, Position, Size
+Text Styling:
+    Font Family
+    Font Size
+    Font Style
+    Font Weight
+    Color
+    Text Align
+    Text Decoration
+    Line Height
+    Text Transform
+    Letter Spacing
+    Word Spacing
 
-# Margin
-# Padding
-# Border - Basic Style, Radius
-# Box Model
-# Box Sizing
+Color:
+    Color Name
+    Hexadecimal Code
+    RGB
+    RGBA
 
-# Float and Clear
-# Position - Static, Relative, Absolute, Fixed, Sticky
-# Display - Block, Inline, Inline-Block, None
+Opacity
 
-# Flexbox
-# Grid
+Background:
+    Solid Color
+    Image
+    Repeat
+    Position
+    Size
 
-# Pseudo Classes - Hover, Focus, nth-child
-# Pseudo Elements - Before, After
+Margin
+Padding
 
-# Transitions
-# Transform
-# Variables
+Border:
+    Basic Style
+    Radius
+
+Box Model
+Float
+Clear
+Google Fonts
+
+Position:
+    Static
+    Relative
+    Absolute
+    Fixed
+    Sticky
+
+Display:
+    Block
+    Inline
+    Inline-Block
+    None
+
+Flexbox
+
+Pseudo Classes:
+    Hover
+    nth-child
+
+Variables
 
 
 [Core-Javascript]
 
-# Introduction to JavaScript
-# Console
-# Variables
-# DataTypes
-# Operators
+Introduction to JavaScript
+Console
+Variables
+DataTypes
+Operators
 
-# If Statement
-# Ternary Operator
-# Switch Statement
+If Statement
+Ternary Operator
+Switch Statement
 
-# Function
-# Scope of a Variable
+For Loop
+While Loop
+Do-While
 
-# For Loop
-# While Loop
-# Do-While
+Function
+Arrow Function
+Scope of a Variable
 
-# Arrow Function
-
-# String Methods
-# Array Methods
-# Object Methods
-# Math Module
-# Advanced Array Methods
+String Methods
+Array Methods
+Object Methods
+Math Module
+Advanced Array Methods
 
 
 [React-Basic-Concepts]
 
-# What is NPM
-# Explanation of Basic Folder Structure
-# Creating and Rendering Function Based Component
-# Creating and Rendering Arrow Function Based Component
-# What is Jsx
-# Returning Single Line and Multi-Line jsx
+What is NPM
+Explanation of Basic Folder Structure
+Creating and Rendering Function Based Component
+Creating and Rendering Arrow Function Based Component
+What is Jsx
+Returning Single Line and Multi-Line jsx
 
-# Es7 Extension and Creating Component with Shortcut
-# Nesting Component
-# Props
-# Children of Props
-# Destructuring of Props
-# Reusing Component with Props
+Es7 Extension and Creating Component with Shortcut
+Nesting Component
+Props
+Children of Props
+Destructuring of Props
+Reusing Component with Props
 
-# Event Handling
-# Functios as Props
-# Conditional Rendering (If Else with Element Variables, Ternary Operator and Short circuit)
-# List Rendering with Unique Key
-# UseState Hook
+Event Handling
+Functios as Props
+Conditional Rendering (If Else with Element Variables, Ternary Operator and Short circuit)
+List Rendering with Unique Key
+UseState Hook
 
-# Form Handling and Onchange Event
-# UseEffect
-# Array in UseState
-# Object in UseState
-# Previous State
+Form Handling and Onchange Event
+UseEffect
+Array in UseState
+Object in UseState
+Previous State
 
-# Installing React Router Library
-# Url Routes
-# Setting Menus
-# In-page Routing
+Installing React Router Library
+Url Routes
+Setting Menus
+In-page Routing
 
 
 [Express-API's]
 
-# Creating package.json file
-# Installing express
-# Creating app.js file
-# Creating basic express server
-# Serving the project with node
-# Installing Nodemon
-# Serving the project with nodemon
-# Creating mongodb cluster
-# Installing mongodb
-# Creating local connection and cluster connection in mongodb compass
-# Installing mongoose
-# Creating a database in mongodb
-# Create environment file 
-# Connecting mongodb to node js
-# Creating a model
-# Installing postman
-# Accessing all http methods with postman
-# Crud operations for model
+Creating package.json file
+Installing express
+Creating app.js file
+Creating basic express server
+Serving the project with node
+Installing Nodemon
+Serving the project with nodemon
+Creating mongodb cluster
+Installing mongodb
+Creating local connection and cluster connection in mongodb compass
+Installing mongoose
+Creating a database in mongodb
+Create environment file 
+Connecting mongodb to node js
+Creating a model
+Installing postman
+Accessing all http methods with postman
+Crud operations for model
 
 
 [React-Express-Integration]
 
-# Installing cors
-# Allowing cross origin with cors package
-# Installing Axios Library
-# Get Request with Axios
-# Post Request with Axios
-# Put/Patch Request with Axios
-# Delete Request with Axios
+Installing cors
+Allowing cross origin with cors package
+Installing Axios Library
+Get Request with Axios
+Post Request with Axios
+Put/Patch Request with Axios
+Delete Request with Axios
 
 
 [Express-Advanced]
 
-# Creating linked model
-# Crud operations for linked model
-# Error Handling
-# Creating reports
+Creating linked model
+Crud operations for linked model
+Error Handling
+Creating reports
 
 
 [React-Advanced]
 
-# Dynamic Field Generation
-# Integrating with Express For Linked Models
-# Component Lifecycle
-# UseContext Hook
-# UseReducer Hook
-# Models
-# Portals
-# Inline CSS
-# Media - Audio, Video
+Dynamic Field Generation
+Integrating with Express For Linked Models
+Component Lifecycle
+UseContext Hook
+UseReducer Hook
+Models
+Portals
+Inline CSS
+Media - Audio, Video
 
 [Authentication-Integration]
 
-# Json Web Token
+Json Web Token
 
 
 [Javascript-OOPS]
 
-# Class
-# OOPS Concept
-# Data Abstraction
-# Encapsulation
-# Inheritance
-# Polymorphism
+Class
+OOPS Concept
+Data Abstraction
+Encapsulation
+Inheritance
+Polymorphism
 
 
 [Css-FrameWorks]
 
-# Bootstrap
-# Ant Design
+Bootstrap
+Ant Design
