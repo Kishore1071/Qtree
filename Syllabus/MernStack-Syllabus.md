@@ -136,13 +136,13 @@ Display:
     Inline-Block
     None
 
-Flexbox
-
 Pseudo Classes:
     Hover
     nth-child
 
 Variables
+
+Flexbox
 
 
 [Core-Javascript]
