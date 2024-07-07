@@ -172,7 +172,6 @@ Text Styling:
     Text Align
     Text Decoration
     Line Height
-    Text Transform
     Letter Spacing
     Word Spacing
 
@@ -223,6 +222,7 @@ Pseudo Classes:
     nth-child
 
 Variables
+Shadow
 
 
 [Bootstrap]

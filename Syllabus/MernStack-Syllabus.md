@@ -141,8 +141,8 @@ Pseudo Classes:
     nth-child
 
 Variables
-
 Flexbox
+Shadow
 
 
 [Core-Javascript]
