@@ -65,10 +65,7 @@ Division
 
 [CSS-Essentials]
 
-Inline Styling
-Internal Styling
 External Styling
-Creating Css file and Linking it Html
 Property Value Syntax
 
 Selectors:
