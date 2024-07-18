@@ -254,6 +254,7 @@ UseReducer Hook
 Models
 Portals
 Inline CSS
+Redux
 
 [Authentication-Integration]
 
