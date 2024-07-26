@@ -1,10 +1,10 @@
-[Introduction]
+# Introduction
 
 What is Full Stack Development
 What can we build with Full Stack Development
 
 
-[Technologies-Included]
+# Technologies-Included
 
 Html
 Css
@@ -15,7 +15,7 @@ Django
 Mysql Database
 
 
-[Basic-Setup]
+# Basic-Setup
 
 Installing Python, Visual Studio Code and Google Chrome
 Setting Up Default Browser as Chrome
@@ -23,7 +23,7 @@ Changing Execution Policy
 Creating and Opening Folder in VS Code
 
 
-[Python]
+# Python
 
 Installing Python Exentsion
 Creating Python File
@@ -112,7 +112,7 @@ OOPS:
     Polymorphism
 
 
-[Html]
+# Html
 
 Installing Live Server and Auto Rename Tag Extension
 Html Element and Attribute Structure
@@ -143,7 +143,7 @@ Form:
 Buttons
 Division
 
-[CSS]
+# CSS
 
 Inline Styling
 Internal Styling
@@ -225,7 +225,7 @@ Variables
 Shadow
 
 
-[Bootstrap]
+# Bootstrap
 
 Builtin Components
 Utilities
@@ -233,7 +233,7 @@ Creating Containers
 table design
 
 
-[Django]
+# Django
 
 Introduction to Django
 Creating and Activating Virtual Environment
@@ -282,7 +282,7 @@ Maintaining Static Files
 Dashboard Page
 
 
-[JavaScript]
+# JavaScript
 
 Introduction to JavaScript
 JavaScript Code in the Console

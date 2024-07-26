@@ -1,9 +1,9 @@
-[Introduction]
+# Introduction
 
 What is Mern Stack Development
 What can we build with Mern Stack Development
 
-[Technologies-Included]
+# Technologies-Included
 
 Html
 Css
@@ -14,7 +14,7 @@ Express Js
 MongoDB
 
 
-[Basic-Setup]
+# Basic-Setup
 
 Installing Python, Visual Studio Code, Google Chrome and Node Js
 Setting Up Default Browser as Chrome
@@ -22,7 +22,7 @@ Changing Execution Policy
 Creating and Opening Folder in VS Code
 
 
-[React-Project-Setup]
+# React-Project-Setup
 
 Introduction to React
 Creating a React Application
@@ -31,7 +31,7 @@ Overview of index.html file
 Introduction to Developer Tools of browser
 
 
-[Html-Essentials]
+# Html-Essentials
 
 Installing Auto Rename Tag Extension
 Html Element and Attribute Structure
@@ -63,7 +63,7 @@ Buttons
 Division
 
 
-[CSS-Essentials]
+# CSS-Essentials
 
 External Styling
 Property Value Syntax
@@ -142,7 +142,7 @@ Flexbox
 Shadow
 
 
-[Core-Javascript]
+# Core-Javascript
 
 Introduction to JavaScript
 Console
@@ -169,7 +169,7 @@ Math Module
 Advanced Array Methods
 
 
-[React-Basic-Concepts]
+# React-Basic-Concepts
 
 What is NPM
 Explanation of Basic Folder Structure
@@ -203,7 +203,7 @@ Setting Menus
 In-page Routing
 
 
-[Express-API's]
+# Express-API's
 
 Creating package.json file
 Installing express
@@ -225,7 +225,7 @@ Accessing all http methods with postman
 Crud operations for model
 
 
-[React-Express-Integration]
+# React-Express-Integration
 
 Installing cors
 Allowing cross origin with cors package
@@ -236,7 +236,7 @@ Put/Patch Request with Axios
 Delete Request with Axios
 
 
-[Express-Advanced]
+# Express-Advanced
 
 Creating linked model
 Crud operations for linked model
@@ -244,7 +244,7 @@ Error Handling
 Creating reports
 
 
-[React-Advanced]
+# React-Advanced
 
 Dynamic Field Generation
 Integrating with Express For Linked Models
@@ -256,12 +256,12 @@ Portals
 Inline CSS
 Redux
 
-[Authentication-Integration]
+# Authentication-Integration
 
 Json Web Token
 
 
-[Javascript-OOPS]
+# Javascript-OOPS
 
 Class
 OOPS Concept
@@ -271,7 +271,7 @@ Inheritance
 Polymorphism
 
 
-[Css-FrameWorks]
+# Css-FrameWorks
 
 Bootstrap
 Ant Design
