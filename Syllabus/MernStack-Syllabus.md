@@ -1,6 +1,7 @@
 # Introduction
 
 What is Mern Stack Development
+
 What can we build with Mern Stack Development
 
 # Technologies-Included
@@ -252,7 +253,6 @@ Component Lifecycle
 UseContext Hook
 UseReducer Hook
 Models
-Portals
 Inline CSS
 Redux
 
