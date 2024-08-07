@@ -252,7 +252,6 @@ Integrating with Express For Linked Models
 Component Lifecycle
 UseContext Hook
 UseReducer Hook
-Models
 Inline CSS
 Redux
 
