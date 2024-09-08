@@ -1,6 +1,7 @@
 # Basic
 
 Index accessing
+Length
 Slicing
 Reversing
 
