@@ -10,8 +10,6 @@ let last_name = 'M';
 let age = 25;  // integer
 let weight = 60.5;  // decimal
 
-console.log(typeof(first_name))
-
 
 
 // Boolean: Boolean takes only two values, true and false. 
