@@ -1,23 +1,7 @@
-/*
-
-If statement are condtional statement in javascript which is used to run a block of code when a condition is is satisfied
-
-An if statement can have a else statement, the else statement is used to run a block of code when the every condition that tested was failed. The else block also called as a default statement
-
-One If condition can have only on if block and only one one else block. If we want to test mulitiple condition we need to use "else if" block as many as time we want and this all "else if" block must be placed between if and else block
-
-One if statement can have another if statement inside
-
-Ternary operator can be used as a short hand for if statement only when there is two possible outcomes
-
-*/
+const definition = "If statements are condtional statement in javascript which is used to run a block of code when a condition is is satisfied and it also allow us to test more than one possibility"
 
 
-// Basic if
-
-if (condition) {
-    // Code to be executed if the condition is true
-}
+// Basic
 
 let age = 25;
 
@@ -25,15 +9,6 @@ if (age >= 18) {
     console.log("You are an adult.");
 }
 
-
-
-// With else
-
-if (condition) {
-    // Code to be executed if the condition is true
-} else {
-    // Code to be executed if the condition is false
-}
 
 let temperature = 25;
 
@@ -44,16 +19,7 @@ if (temperature > 30) {
 }
 
 
-
-// With else if
-
-if (condition1) {
-    // Code to be executed if condition1 is true
-} else if (condition2) {
-    // Code to be executed if condition2 is true
-} else {
-    // Code to be executed if none of the conditions are true
-}
+// Multiple Condition
 
 let score = 85;
 
@@ -70,12 +36,6 @@ if (score >= 90) {
 
 // Nesting
 
-if (condition1) {
-    if (condition2) {
-        // Code to be executed if both conditions are true
-    }
-}
-
 let x = 10;
 let y = 5;
 
@@ -88,15 +48,4 @@ if (x > 0) {
 } else {
     console.log("x is not positive.");
 }
-
-
-// Ternary
-
-
-// condition ? expressionIfTrue : expressionIfFalse;
-
-let isRaining = true;
-let weatherMessage = isRaining ? "Bring an umbrella." : "Enjoy the sunshine.";
-
-console.log(weatherMessage);
 

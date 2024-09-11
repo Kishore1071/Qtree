@@ -1,6 +1,6 @@
-// a function is a reusable block of code that performs a specific task or set of tasks. Functions are used reduce code repeataion and make the codes in to single callable functions
+const definition = "a function is a reusable block of code that performs a specific task or set of tasks. Functions are used reduce code repeataion and make the codes in to single callable functions"
 
-`Basic Function`
+// Basic Function
 
 function ConsoleData() {
     console.log("Something")
@@ -9,7 +9,7 @@ function ConsoleData() {
 ConsoleData();
 
 
-`Function with Return`
+// Function with Return
 
 function ReturnData() {
     
@@ -22,13 +22,13 @@ function ReturnData() {
 let d = ReturnData();
 
 
-`Function with Parameters and Arguments`
+// Function with Parameters and Arguments
 
-function Addition(number1, number2) { // parameters
+function Addition(number1, number2) {
     return number1 + number2;
 }
 
-Addition(10, 5) // arguments
+Addition(10, 5)
 
 
 // Function can have local variable
@@ -38,3 +38,12 @@ function Double(number) {
 }
 
 Double(10)
+
+
+// Function with default value to parameters
+
+function Subtraction(a, b, c=4, d=6) {
+    return a * b * c * d
+}
+
+Subtraction(2, 4)

@@ -1,18 +1,8 @@
-// For loop is used to repeat a set of code untill a condition fails.A for loop can contain another for loop
-
-for (initialization; condition; increment/decrement) {
-    // Code to be executed in each iteration
-}
+// Basic loop
 
 for (let i = 0; i < 5; i++) {
     console.log("Iteration #" + i);
 }
-
-// Initialization: It sets the initial value before the loop starts.
-
-// Condition: It checks if the loop should continue executing. If the condition is true, the loop continues; if it's false, the loop terminates.
-
-// Increment/Decrement: It updates the loop control variable after each iteration.
 
 
 // Infinite Loop
