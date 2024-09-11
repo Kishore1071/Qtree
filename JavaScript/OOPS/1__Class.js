@@ -16,14 +16,8 @@ class PersonData  {
     }   
 }
 
-let person1 = new PersonData("Kishore", 25)
-let person2 = new PersonData("awew", 322)
-console.log(person2.getName())
-console.log(person2.age)
-console.log(person2.setAge(50))
-console.log(person2.age)
+let person1 = new PersonData("Kishore", 26)
 
-// console.log(person2)
 
 
 
