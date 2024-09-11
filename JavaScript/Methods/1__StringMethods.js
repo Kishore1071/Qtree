@@ -1,12 +1,7 @@
 // String
 
-let name = "kishore" // Double Quotes
-let user_name = 'kishore' // Single Quotes
-
-// Escape Character \ : To include predefined symbols
-
-let text = "This is a \"heading\" text"
-
+let name = "kishore"
+let user_name = 'kishore'
 
 // PROPERTIES & METHODS:-
 
