@@ -12,6 +12,3 @@ fruits = ["Apple", "Orange", "PineApple", "Banana"]
 
 random_single_choice = random.choice(fruits)
 random_multi_choice = random.choices(fruits, k=2)
-
-
-print(random_choice)
