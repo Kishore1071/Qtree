@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<h1>Bill Creating Page</h1>
+
+<div class="container routing-button">
+    <a href="/bill/list/">
+        <button class="btn btn-secondary">Back</button>
+    </a>
+</div>
+
+<div class="container">
+
+    <form class="data-form" action="" method="POST">
+        {{bill_form}}
+        {% csrf_token %}
+    
+        <input type="submit" class="btn btn-primary form-control my-3">
+    </form>
+
+</div>
+
+{% endblock %}

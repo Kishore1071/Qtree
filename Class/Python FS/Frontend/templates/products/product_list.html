@@ -1,0 +1,54 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<h1>Product List Page</h1>
+
+<div class="container routing-button">
+    <a href="/inventory/product/add/">
+        <button class="btn btn-primary">Add Product</button>
+    </a>
+</div>
+
+<div class="container">
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Product Name</th>
+                <th>Category</th>
+                <th>Code</th>
+                <th>Price</th>
+                <th>Gst %</th>
+                <th>Update</th>
+                <th>Delete</th>
+            </tr>
+        </thead>
+
+        <tbody>
+
+            {% for product in all_products %}
+                <tr>
+                    <td>{{product.product_name}}</td>
+                    <td>{{product.category_ref}}</td>
+                    <td>{{product.code}}</td>
+                    <td>{{product.price}}</td>
+                    <td>{{product.gst}}</td>
+                    <td>
+                        <a href="{% url 'product_update' product.id %}">
+                            <button>Update</button>
+                        </a>
+                    </td>
+                    <td>
+                        <a href="{% url 'product_delete' product.id %}">
+                            <button>Delete</button>
+                        </a>
+                    </td>
+                </tr>
+            {% endfor %}
+
+        </tbody>
+    </table>
+</div>
+
+{% endblock %}
